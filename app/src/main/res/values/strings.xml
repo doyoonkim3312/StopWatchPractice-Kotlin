@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StopWatchPractice</string>
+    <string name="lab_Time">LAP</string>
+    <string name="no_lapTime">Timer is not running.</string>
+</resources>

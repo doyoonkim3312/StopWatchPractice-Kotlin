@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StopWatchPractice</string>
+    <string name="lab_Time">랩타임</string>
+    <string name="no_lapTime">타이머가 멈춰있습니다.</string>
+</resources>
